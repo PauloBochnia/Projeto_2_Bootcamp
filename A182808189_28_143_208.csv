@@ -1,0 +1,33 @@
+FEBRE AMARELA - Casos confirmados Notificados no Sistema de Informação de Agravos de Notificação - Brasil
+casos confirmados por Região/UF de residência e Ano 1º Sintoma(s)
+Período:2007-2016
+"Região/UF de residência";"2006";"2007";"2008";"2009";"2010";"2011";"2013";"2014";"2015";"2016";"Total"
+"Região Norte";-;5;3;-;1;2;2;1;2;2;18
+".. Amazonas";-;3;-;-;-;-;1;-;-;2;6
+".. Roraima";-;1;-;-;-;-;-;-;-;-;1
+".. Pará";-;1;3;-;1;2;1;1;2;-;11
+"Região Sudeste";1;-;16;30;-;-;-;-;2;47;96
+".. Minas Gerais";-;-;6;2;-;-;-;-;-;42;50
+".. Rio de Janeiro";-;-;-;-;-;-;-;-;1;-;1
+".. São Paulo";1;-;10;28;-;-;-;-;1;5;45
+"Região Sul";-;-;9;16;-;-;-;-;1;-;26
+".. Paraná";-;-;4;1;-;-;-;-;1;-;6
+".. Rio Grande do Sul";-;-;5;15;-;-;-;-;-;-;20
+"Região Centro-Oeste";-;9;19;1;1;-;-;-;4;3;37
+".. Mato Grosso do Sul";-;-;1;-;1;-;-;-;-;-;2
+".. Mato Grosso";-;1;2;1;-;-;-;-;-;-;4
+".. Goiás";-;7;7;-;-;-;-;-;3;3;20
+".. Distrito Federal";-;1;9;-;-;-;-;-;1;-;11
+"Total";1;14;47;47;2;2;2;1;9;52;177
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados epidemiológicos de um determinado ano, selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
+     em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados com atraso)
+     e em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: nº de casos com início de sintomas 2007:
+     selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos disponíveis 2007 até o ano atual
+     e em Seleções assinale Ano de 1ºs sintomas 2007).
+ Dados de 2007 a 2014 atualizados em 12/06/2019.
+ Dados de 2015 a 2016 atualizados em 04/05/2018, sujeitos à revisão.
